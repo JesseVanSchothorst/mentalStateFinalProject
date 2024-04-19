@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/drawer": "^6.6.15",
+    "@shopify/react-native-skia": "0.1.221",
     "expo": "~50.0.14",
+    "expo-av": "^13.10.6",
+    "expo-haptics": "^12.8.1",
+    "expo-splash-screen": "^0.26.4",
+    "expo-sqlite": "^13.4.0",
     "expo-status-bar": "~1.11.1",
-    "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react": "^18.2.0",
+    "react-native": "^0.73.6",
+    "react-native-awesome-gallery": "^0.3.9",
+    "react-native-gesture-handler": "~2.14.0",
+    "react-native-keep-awake": "^4.0.0",
+    "react-native-reanimated": "~3.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
